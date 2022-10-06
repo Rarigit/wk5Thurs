@@ -1,0 +1,16 @@
+Warmup:
+
+1. Create a folder called GridWarmup
+2. Connect this folder to Git/GitHub
+3. Add an index.html and style.css file
+4. In the index.html add the following:
+ 4.1. A header tag
+ 4.2. A main tag
+ 4.3 A footer tag
+5. Add an image and 3 links inside a nav tag to the header tag
+6. Turn the header into a grid and justify the image to the start while the nav is justifed to the end of the header
+7. Add at least 3 sections to the main tag and fill those sections with at least 3 content tags each
+8. Use grid to ensure the sections will take up horizontal space when available and vertically stack when the screen is smaller.
+9. Add 3 links to the footer tag
+10. Use grid to ensure the links will take up horizontal space when available and vertically stack when the screen is smaller.
+11. Add commit and push your code

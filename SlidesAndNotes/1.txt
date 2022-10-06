@@ -1,0 +1,13 @@
+Warmup:
+
+In the Terminal:
+1. Navigate to your InnoTech directory
+2. Create a file called temp.txt
+3. Rename that file to temp.html
+4. Create a folder called warmtemp
+5. Move the file temp.html into warmtemp
+6. Open the folder warmtemp with vscode
+7. Add the shortcut starter code into temp.html
+8. Add some tags to the site and open it with your browser
+  8.1 Spend some time here and explore new tags!
+9. Delete the warmtemp folder

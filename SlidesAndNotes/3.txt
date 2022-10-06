@@ -1,0 +1,10 @@
+Warmup
+
+1. Create a folder called MeasureBoxWarmup in your Warmups folder
+2. Connect this folder to Git/GitHub
+3. Create an index.html and style.css file
+4. Add in at least 6 content tags
+5. Use CSS to specify the width of these content tags using 3 relative units and 3 absolute units (You can use the same units more than once)
+6. Use CSS to attempt to center these content tags in the middle of the page horizontally
+7. Use CSS to give space between each content tag vertically using 3 relative units of measurement and 3 absolute units of measurement
+8. Use CSS to change at least 2 content tags' font-size

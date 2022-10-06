@@ -1,0 +1,60 @@
+WARMUP:
+
+1. Create a folder called MediaWarmup in your Scratch directory
+2. Connect this folder to Git/GitHub
+3. Create an index.html and style.css
+4. Using whatever CSS you can, create the following layouts:
+  Mobile:
+    --------------------------
+    |                        |
+    |          LOGO          |
+    |          LINK          |
+    |          LINK          |
+    |                        |
+    --------------------------
+    |                        |
+    |                        |
+    |                        |
+    |         TITLE          |
+    |                        |
+    |         LOREM          |
+    |                        |
+    |         IMAGE          |
+    |                        |
+    |                        |
+    |                        |
+    |                        |
+    --------------------------
+    |                        |
+    |         AUTHOR         |
+    |         COPY           |
+    |         SOCIALS        |
+    |                        |
+    --------------------------
+  Tablet:
+    --------------------------------------------
+    |                                          |
+    |                  LOGO                    |
+    |                  LINK                    |
+    |                  LINK                    |
+    |                                          |
+    --------------------------------------------
+    |                                          |
+    |                                          |
+    |                                          |
+    |                 TITLE                    |
+    |                                          |
+    |         IMAGE           LOREM            |
+    |                                          |
+    |                                          |
+    |                                          |
+    |                                          |
+    |                                          |
+    |                                          |
+    --------------------------------------------
+    |                                          |
+    |            AUTHOR      COPY              |
+    |                                          |
+    |                 SOCIALS                  |
+    |                                          |
+    --------------------------------------------

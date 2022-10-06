@@ -1,0 +1,10 @@
+WARMUP (using the terminal):
+
+1. Navigate to the Warmup directory inside your InnoTech directory and create a LocalGit folder
+2. Open the LocalGit folder with VSCode
+3. Create a git repository (init)
+4. Create an index.html file and add some basic HTML
+5. Add your changes
+6. Commit your changes
+7. Check the status of your repo
+8. Check the logs of your repo

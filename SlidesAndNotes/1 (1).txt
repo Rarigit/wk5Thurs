@@ -1,0 +1,13 @@
+Warmup:
+
+1. Create a directory called SemanticWarmup in your Warmup folder
+2. Follow the Git/GitHub workflow to turn SemanticWarmup into a repository
+3. In the index.html add the following (trying your best to follow the semantic / logical grouping rules discussed last class):
+    3.1: At least 3 text content tags
+    3.2: At least 2 external links
+    3.3: At least 1 internal image
+    3.4: At least 1 external image
+    3.5: At least 1 external video 
+4. Add, commit and push your code.
+5. Add the appropriate meta tags to your index.html file
+6. Add, commit and push your code.

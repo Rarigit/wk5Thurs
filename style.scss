@@ -1,0 +1,27 @@
+@use "general";
+$hamburger_height: 25px;
+
+#logo{
+    width: 50vw;
+    left: 50%;
+    top: 3*$hamburger_height;
+    transform: translateX(-50%);
+
+}
+
+#hamburgerButton{
+    height: 25px;
+    top: 5px;
+    left: 50%;
+    transform: translateX(50%);
+}
+
+header{
+    height: 100vh;
+    background-image: url(/SlidesAndNotes/dough.jpeg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    img{
+        position: absolute;
+    }
+}

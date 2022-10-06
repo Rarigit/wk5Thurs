@@ -1,0 +1,12 @@
+Wamrup:
+
+1. Create a folder called CssWarmup in your warmup folder
+2. Connect this folder to Git/GitHub
+3. Create an index.html file and style.css file
+4. Add at least 3 text based tags
+5. Add at least 3 image based tags
+6. Group these tags using semantic tags
+7. Give at least 3 tags unique ids
+8. Give at least 3 tags a class
+9. In the style.css file target each id and write 3 CSS rules (change whatever style you would like)
+10. Target the class and write a CSS file (change whatever style you would like)
