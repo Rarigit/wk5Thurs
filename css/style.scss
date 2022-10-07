@@ -98,3 +98,29 @@ header{
         margin: 5vh;
     }
 }
+
+#carousel{
+    position: relative;
+    img{
+        width: 100vw;
+    }
+    div{
+        position: absolute;
+        top: 0;
+        color: white;
+        background-color: rgba(0,0,0,0.5);
+        p{
+            font-size: 1.5em;
+        } 
+    }
+}
+
+#menu{
+    display: grid;
+
+    margin-top: 5vh;
+    div{
+        margin-top: 5vh;
+
+    }
+}

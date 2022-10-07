@@ -93,4 +93,28 @@ header div h1 {
   padding: 0.5em 0;
   justify-self: center;
   margin: 5vh;
+}
+
+#carousel {
+  position: relative;
+}
+#carousel img {
+  width: 100vw;
+}
+#carousel div {
+  position: absolute;
+  top: 0;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#carousel div p {
+  font-size: 1.5em;
+}
+
+#menu {
+  display: grid;
+  margin-top: 5vh;
+}
+#menu div {
+  margin-top: 5vh;
 }/*# sourceMappingURL=style.css.map */
