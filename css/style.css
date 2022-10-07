@@ -7,6 +7,10 @@
   font-size: 1.15rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-large {
   font-size: 2rem;
 }
@@ -63,6 +67,9 @@ header div h1 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 }
+#articles img {
+  width: 100%;
+}
 #articles div {
   text-align: center;
 }
@@ -71,4 +78,19 @@ header div h1 {
 }
 #articles div > a:visited, #articles div > a:link {
   color: black;
+}
+
+#events {
+  display: grid;
+  margin-top: 5vh;
+}
+#events div {
+  margin-top: 5vh;
+}
+#events #readMore {
+  width: 200px;
+  border: solid black 2px;
+  padding: 0.5em 0;
+  justify-self: center;
+  margin: 5vh;
 }/*# sourceMappingURL=style.css.map */
